@@ -16,7 +16,7 @@ export default function VideoSection({ onCtaClick, playClickSound }: VideoSectio
     playClickSound()
     setIsPlaying(true)
     // In a real implementation, you would play the video here
-    alert("Video player would launch here showing the process!")
+    alert("Your browser can't open this specific video !")
     setIsPlaying(false)
   }
 
