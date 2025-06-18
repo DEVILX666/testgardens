@@ -74,7 +74,7 @@ export default function HowItWorks() {
             </div>
             <div className="text-center">
               <h3 className="text-xl font-bold mb-2 text-[var(--forest-green)]">Complete Simple Tasks</h3>
-              <p>Finish quick offers to unlock your pets instantly.</p>
+              <p>Finish quick tasks to unlock your pets instantly.</p>
             </div>
           </div>
         </div>
