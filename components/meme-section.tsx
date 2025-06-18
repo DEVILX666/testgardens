@@ -35,20 +35,20 @@ export default function MemeSection({ onCtaClick, playClickSound }: MemeSectionP
           <div className="mt-4 border-t pt-4 text-left">
             <div className="flex items-start gap-2 mb-3">
               <div className="w-8 h-8 rounded-full bg-gray-300 overflow-hidden shrink-0">
-                <Image src="/placeholder.svg?height=32&width=32" alt="User avatar" width={32} height={32} />
+                <Image src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D8B61335336D15B1A18D619D6068B455-Png/150/150/AvatarHeadshot/Webp/noFilter" alt="User avatar" width={32} height={32} />
               </div>
               <div>
-                <div className="font-bold">RobloxGirl2023</div>
+                <div className="font-bold">@Hellokity_150</div>
                 <p>LMAOO this is so true! just got my raccoon 😂</p>
               </div>
             </div>
 
             <div className="flex items-start gap-2">
               <div className="w-8 h-8 rounded-full bg-gray-300 overflow-hidden shrink-0">
-                <Image src="/placeholder.svg?height=32&width=32" alt="User avatar" width={32} height={32} />
+                <Image src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-293AD9588EE511F012E15E23D3A3E3D1-Png/150/150/AvatarHeadshot/Webp/noFilter" alt="User avatar" width={32} height={32} />
               </div>
               <div>
-                <div className="font-bold">GamerBoy2010</div>
+                <div className="font-bold">@MonsterX_X5</div>
                 <p>Why didn't I find this earlier?? 🤦‍♂️</p>
               </div>
             </div>
