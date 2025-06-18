@@ -16,7 +16,7 @@ export default function ComparisonSection({ onCtaClick, playClickSound }: Compar
             <div className="absolute top-0 right-0 bg-[var(--forest-green)] text-white px-3 py-1 rounded-bl-lg font-bold">
               THE RIGHT ONE
             </div>
-            <h3 className="text-xl font-bold mb-6 text-[var(--forest-green)]">Testervibe</h3>
+            <h3 className="text-xl font-bold mb-6 text-[var(--forest-green)]">Onmod</h3>
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <Check className="text-[var(--forest-green)] mt-1 shrink-0" />
